@@ -1,2 +1,7 @@
-# js-hello-world
-Simple JavaScript script to print Hello World in console.
+# JS Hello World
+
+Simple JavaScript script to print "Hello World" in console.
+
+## Run
+```bash
+node hello.js
